@@ -10,7 +10,7 @@ Now Support Eclipse 3.2 and later, Mac OS X, Linux (with nautilus) and Windows.
 <a href="http://blog.samsonis.me/wp-content/uploads/2009/02/openexplorer.png"><img style="border: medium none;" title="Open Explorer" src="http://blog.samsonis.me/wp-content/uploads/2009/02/openexplorer.png" alt="Open Explorer" width="300" height="216"></a>
 
 ## Install/Uninstall
-[下载地址](http://github.com/samsonw/OpenExplorer/downloads "Download") the latest version of the plugin, then put it into your Eclipse plugin directory "$ECLIPSE_HOME/plugins" (or "$ECLIPSE_HOME/dropins" for 3.3+ eclipse)
+[Download（下载地址）](http://github.com/samsonw/OpenExplorer/downloads "Download") the latest version of the plugin, then put it into your Eclipse plugin directory "$ECLIPSE_HOME/plugins" (or "$ECLIPSE_HOME/dropins" for 3.3+ eclipse)
 
 Restart Eclipse workbench.
 
